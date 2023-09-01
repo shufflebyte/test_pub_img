@@ -1,3 +1,16 @@
+<h4 dir="ltr" style="text-align: left;">Kästchen schöner machen</h4><div><a href="https://herrmayr.de/auffaellige-kaesten-fuer-moodle-gestalten-mit-css/" target="_blank">https://herrmayr.de/auffaellige-kaesten-fuer-moodle-gestalten-mit-css/</a></div><div><a href="https://lms.bildung-rp.de/lernenonline/mod/page/view.php?id=8345" target="_blank">https://lms.bildung-rp.de/lernenonline/mod/page/view.php?id=8345</a><br></div>
+
+<br>
+<div style="margin: 0 auto .5rem; overflow:hidden; border-left: 10px solid #FFDC00;">
+  <div style="padding: 0 1rem;">
+    <div style="font-size: x-large; font-weight:bold; margin-bottom: .5rem; padding:.75rem .25rem; border-bottom: 1px solid #AAA;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Icon-Megaphone.svg/140px-Icon-Megaphone.svg.png" alt="" role="presentation" width="31" height="26">&nbsp;HERVORHEBUNG 1</div>
+    <div style="padding-bottom: .5rem; font-size: large;">Hier steht der Inhalt mit allen möglichen Infos ... Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec
+      quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In eni</div>
+  </div>
+</div>
+<br>
+
 # 1 Arrays
 
 Die wohl wichtigste Datenstruktur ist das Array. Zum Start wollen wir noch einmal die Grundlagen auffrischen, bevor wir uns weiteren interessanten Strukturen zuwenden.
@@ -13,9 +26,11 @@ Die wohl wichtigste Datenstruktur ist das Array. Zum Start wollen wir noch einma
 3. Macht euch noch einmal damit vertraut, wie man Speicher für einen Array allokiert, auf dessen Elemente zugreift und wie man mit den Grenzen umgeht.
 4. Notiert euch **ungeklärte Fragen** für die **Besprechung**
 
-**Besprechung**: Der Würfel entscheidet, wer präsentiert!<img src="./assets/w20.png" alt="w20" style="zoom:10%;" />
+**Besprechung**: Der Würfel entscheidet, wer präsentiert!<img src="https://raw.githubusercontent.com/shufflebyte/test_pub_img/master/assets/w20.png" alt="w20" style="zoom:10%;" />
 
-**Besprechung**: Der Würfel entscheidet, wer präsentiert!<img src="./assets/Usersettings.png" alt="w20" style="zoom:50%;" />
+**Besprechung**: Der Würfel entscheidet, wer präsentiert!<img src="https://raw.githubusercontent.com/shufflebyte/test_pub_img/master/assets/Usersettings.png" alt="w20" style="zoom:50%;" />
+
+![Standard Markdown](https://raw.githubusercontent.com/shufflebyte/test_pub_img/master/assets/Usersettings.png)
 
 ```cpp
 #include <iostream>
